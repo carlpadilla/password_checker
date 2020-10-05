@@ -36,5 +36,6 @@ def main(args):
             print(f'Password not found!')
     return 'done!'
 
+
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))
